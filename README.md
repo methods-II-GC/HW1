@@ -1,4 +1,4 @@
-HW1: Git and GitHub
+HW1: git and GitHub
 ===================
 
 The file [`data/roster.tsv`](data/roster.tsv) is a *tab-separated-values* (TSV)
